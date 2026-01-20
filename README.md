@@ -17,3 +17,13 @@ Veri seti şu bilgileri içermektedir:
 **2-** Zaman bilgisi (Unix timestamp)
 
 **3-** Hava durumu değişkenleri (sıcaklık, nem vb.)
+
+# Problem Tanımı
+
+Problem, enerji tüketimlerinin normal mi yoksa anormal mi olduğunu belirlemek şeklinde ele alınmıştır.
+
+**0 → Normal tüketim**
+
+**1 → Anormal tüketim**
+
+Bu nedenle problem bir ikili sınıflandırma (binary classification) problemi olarak modellenmiştir.
