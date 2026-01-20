@@ -12,6 +12,8 @@ Bu projede Kaggle üzerinde paylaşılan Smart Home Energy Consumption and Weath
 
 Veri seti şu bilgileri içermektedir:
 
-**1** Cihazlara ait enerji tüketimleri (kW)
-**2** Zaman bilgisi (Unix timestamp)
-**3** Hava durumu değişkenleri (sıcaklık, nem vb.)
+**1-** Cihazlara ait enerji tüketimleri (kW)
+
+**2-** Zaman bilgisi (Unix timestamp)
+
+**3-** Hava durumu değişkenleri (sıcaklık, nem vb.)
