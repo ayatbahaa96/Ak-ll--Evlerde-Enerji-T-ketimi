@@ -85,4 +85,6 @@ Elde edilen sonuçlara göre, pivot tablo kullanılarak oluşturulan taban değe
 <img width="547" height="497" alt="image" src="https://github.com/user-attachments/assets/30a91d8c-fa06-4f22-bcdd-699672e323fb" />
 
 
+# BTK Akademi sertifika  
 
+<img width="902" height="632" alt="image" src="https://github.com/user-attachments/assets/6d4c86f6-78aa-4112-81cb-04a7950651eb" />
