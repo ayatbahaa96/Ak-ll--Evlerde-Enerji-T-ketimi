@@ -10,6 +10,8 @@ Bu proje akıllı evlerde kullanılan elektrikli cihazların enerji tüketimini 
 
 Bu projede Kaggle üzerinde paylaşılan Smart Home Energy Consumption and Weather Data veri seti kullanılmıştır.
 
+Veri seti : https://www.kaggle.com/datasets/jamshaid1202/smart-home-energy-consumption-and-weather-data?resource=download
+
 Veri seti şu bilgileri içermektedir:
 
 **1-** Cihazlara ait enerji tüketimleri (kW)
